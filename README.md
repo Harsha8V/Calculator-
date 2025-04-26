@@ -1,0 +1,1 @@
+a basic calculator using HTML, CSS, and JavaScript. The HTML structure defines the layout of the calculator, including the input display and buttons for digits, operators, and functions. CSS is used to style the calculator and make the interface clean and user-friendly.
